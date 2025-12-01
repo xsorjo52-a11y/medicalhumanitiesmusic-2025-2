@@ -4,6 +4,9 @@ Year: 2014
 Genre: Film
 Disease: ALS
 ICD: 8B60.0
+Music: Arrival of the Birds
+Composer: Jóhann Jóhannsson
+Type: Orchestra
 ---
 
 # Theory of Everything

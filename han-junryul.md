@@ -1,7 +1,9 @@
 ---
-Title: Kill me Heal me
+Title: Kill me heal me
 Year: 2015
 Genre: Drama
+Music: Auditory hallucination
+Composer: Jang jane
 Disease: Dissociative identity disorder
 ICD: 6B64
 ---

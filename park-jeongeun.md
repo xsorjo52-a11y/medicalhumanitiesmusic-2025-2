@@ -1,17 +1,21 @@
 ---
-Title: The pianist
+Title: The Pianist
 Year: 2002
-Genre: film
+Genre: Film
 Disease: PTSD
 ICD: F43.1
 ---
 
-# The pianist
+# The Pianist
 
 Throughout the ghettoization and period of hiding during WWII, the protagonist sufers extreme hunger and malnutrition. In the film's final act, when he plays for the German oficer, he is emaciated, unkempt, and his fingers are stif, twitching from the severe physical impairment imposed by war and isolation. The intense fear and profound isolation experienced while separated from his family and hiding in the ruins lead to severe psychological distress akin to Post-Traumatic Stress Disorder (PTSD). He is cut off from the outside world, reduced to a state where only the instinct for survival remains. [Nocturne in C-sharp minor, Op. posth](https://www.youtube.com/watch?v=A8zO2KX_VVU&list=RDA8zO2KX_VVU&start_radio=1), Fryderyk Chopin, 1810 (Poland) ~ 1849 (France), This is an instrumental piece, therefore it has no lyrics. The piece is featured at the beginning and end of the film, and most critically, during the encounter with the German oficer, Wilm Hosenfeld. The majority of the film is set in the Warsaw Ghetto between 1940 and 1943, a district in which Nazi Germany forcibly relocated and confined the Jewish population. Within this space, Władysław Szpilman loses his family and is stripped of even the most basic human rights.
 After being discovered in an attic hideout, Szpilman must prove he is a pianist by playing on a dusty grand piano. Though his severely weakened hands tremble upon touching the keys, he summons all his strength to perform this Nocturne. This performance moves Hosenfeld, who decides to save Szpilman's life and provide him with secret aid. Chopin's Nocturne in C-sharp minor serves as a paradoxical expression of Szpilman's physical and mental debilitation, ultimately underscoring the indomitable nature of the human spirit. As suggested by the tempo marking, Lento con gran espressione (Slowly, with great expression), the music embodies a quiet yet profound sorrow and tragedy. While the pianist's fingers are stiff and twitching from his sufering, the melody he produces ranscends his weakened body and becomes the very life force of his artistic soul. The music is the silent scream that declares, I am a man, not a beast, to his captor, serving as the final form of dignity Szpilman, the artist, clings to. The performance momentarily halts the devastation that the extreme environment has inflicted upon his body, ofering a moment of restoration and connection. Rather than being clinically cured, Szpilman finds healing and meaning through artistic expression, showing that music can restore hope even after unimaginable pain.The fact that the music of Chopin, the national composer of Poland, is performed in the ruins before a German officer goes beyond the salvation of an individual and reinforces the theme of preserving national and human dignity through art.
 
 The overall storyline shifts from negativity and sadness to overcoming and positivity, which is similar to the film [Marathon](ji-dain2.md). In Marathon, the protagonist Cho-won, who has autism spectrum disorder, is portrayed in a positive light through the sport of marathon running. The film also uses major key music to create a warm emotional tone. Likewise, in The Pianist, the protagonist Szpilman, who suffers from PTSD, regains his sense of human dignity through playing the piano, with music illustrating the moment of restored humanity. Both films ultimately use music as a medium through which their protagonists reclaim themselves, converging on the shared theme of human dignity restored through artistic or emotional resilience. While Marathon expresses everyday hope through lively major-key melodies, The Pianist employs Chopin’s nocturne to reveal the enduring flame of humanity amid devastation, showing that the two films take different paths toward the same thematic destination.
+
+The structural arc of Rachmaninoff’s music—dark low registers and unstable harmonies → dramatic buildup → calm resolution—mirrors Szpilman’s psychological journey in The Pianist. The tense opening reflects his fear and PTSD-driven confusion, the intensifying dynamics echo his desperate struggle for survival, and the final, more stable harmonies parallel the moment he regains a sense of human dignity through the act of playing the piano.
+
+Additionally, another film that deals with PTSD, similar to The Pianist, is Leave No Trace.
 
 <img src="./park-jeongeun.png" alt="Abstract image of PTSD" style="width:35%;" />
 
@@ -21,3 +25,7 @@ The overall storyline shifts from negativity and sadness to overcoming and posit
 이는 나치 독일이 유대인들을 강제 이주시켜 봉쇄한 지역으로, 스필만은 이 게토에서 가족을 잃고, 인간의 기본적인 권리조차 없는 상태로 버려집니다. 이 역사적 환경 자체가 인간성을 파괴하도록 설계된 공간이었기에, 그의 예술 행위는 더 강력한 의미를 갖습니다. 슈필만은 폐허가 된 집의 다락방에서 호젠펠트에게 발각된 후, 자신이 피아니스트임을 증명하기 위해 먼지 쌓인 피아노 앞에 앉습니다. 그는 극도의 쇠약함으로 인해 건반에 손가락을 대자마자 경련을 일으키지만, 이내 온 힘을 다해 이 녹턴을 연주합니다. 이 연주를 통해 호젠펠트는 그를 살려주고 비밀리에 도움을 주게 됩니다. 쇼팽의 녹턴 올림다단조는 슈필만의 신체적, 정신적 쇠약을 역설적으로 표현하며 인간 정신의 불굴의 힘을 강조합니다. 곡의 템포 지시어인 웅장한 표정으로 느리게처럼, 이 음악은 조용하면서도 깊은 슬픔과 비극을 내포하고 있습니다. 건반 앞에서 피아니스트의 손가락은 굳어 경련을 일으키지만, 그가 만들어내는 선율은 쇠약해진 육체를 초월하는 예술적 영혼의 생명력 그 자체입니다. 음악은 슈필만이 인간으로서, 예술가로서 마지막으로 부여잡은 자존감의 형태이며, 그를 구해준 호젠펠트에게 나는 짐승이 아닌 인간이다라고 말하는 언어가 없는 외침입니다. 이 연주는 극한의 환경이 육체에 새긴 모든 장애를 잠시 멈추게 하고, 인간성 회복의 순간을 선사합니다. 슈필만은  PTSD를 치료받은 것이 아니라, 예술(피아노)을 통한 자기 표현과 인간적 존엄으로 극복했다고 볼 수 있습니다. 폴란드의 국민 작곡가인 쇼팽의 음악이 폐허 속에서 독일 장교에게 연주된다는 사실이 단순히 한 개인의 구원을 넘어 예술을 통한 민족적, 인간적 존엄의 수호라는 주제를 강화합니다.
 
 전반적인 줄거리가 부정, 슬픔에서 극복, 긍정으로 바뀌는 것이 영화 [말아톤](ji-dain2.md)의 내용과 유사합니다. 말아톤에서는 자폐 스펙트럼을 가진 힘든 상황에서 마라톤이라는 운동을 통해 초원이의 모습을 긍정적이게 묘사하고 사용하는 음악도 장조를 활용해 따뜻한 느낌을 줍니다. 더 피아니스트에서는 PTSD를 겪는 슈필만이 피아노를 통해 인간의 존엄을 회복하는 모습을 그려내며 음악을 통해 인간성의 회복 순간을 보여줍니다. 두 작품은 모두 ‘음악’을 매개로 인간이 상처를 극복해가는 과정을 보여주며, 방식은 다르지만 결국 인간 존엄의 회복이라는 동일한 주제로 수렴합니다. <말아톤>이 경쾌한 장조 음악으로 일상의 희망을 드러낸다면, <더 피아니스트>는 쇼팽의 녹턴을 통해 폐허 속에서도 꺼지지 않는 인간성의 불꽃을 보여준다는 점에서 두 작품은 서로 다른 길로 같은 주제를 향합니다.
+
+라흐마니노프 음악의 무거운 저음·불안한 화성 → 급격한 고조 → 안정된 흐름이라는 구조는 The Pianist 속 슈필만의 심리와 자연스럽게 맞물립니다. 초반의 불안정한 선율은 그의 공포와 PTSD의 혼란을 반영하고, 점차 고조되는 다이내믹은 생존을 위한 극도의 긴장을 드러냅니다. 마지막의 안정된 화성은 피아노 연주를 통해 인간적 존엄을 회복하는 순간과 대응하며, 그의 감정 회복 과정을 음악적으로 보여줍니다.
+
+추가적으로 피아니스와 같이 PTSD를 다룬 영화의 예로는 Leave No Trace가 있습니다.

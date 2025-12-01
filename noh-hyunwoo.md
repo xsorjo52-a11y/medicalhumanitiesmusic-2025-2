@@ -18,7 +18,7 @@ This processed sound design aurally captures the unstable equilibrium of his suf
 
 The mental confusion experienced by Arthur Fleck can be seen in the expression of the chaotic inner world of the character suffering from Dissociative Identity Disorder in the drama [Kill me Heal me](han-junryul.md). In this drama, auditory hallucinations made it difficult to clearly distinguish the boundary between reality and imagination, showing an inner self that even he cannot control. This has a close connection with the impulsive murders resulting from the visual and auditory hallucinations that Arthur Fleck exhibits.
 
-<img src="./noh-hyunwoo.png" alt="Image of Schizophrenia Spectrum Disorder" style="width:35%;" />
+<img src="./noh-hyunwoo.png" alt="Image of Schizophrenia Spectrum Disorder" style="width:30%;" />
 
 # 조커(Joker)
 

@@ -4,6 +4,8 @@ Year: 2014
 Genre: Film
 Disease: ALS
 ICD: 8B60.0
+Composer: Jóhann Jóhannsson 
+Type: Instrumental Score
 ---
 # The Theory of Everything 
 

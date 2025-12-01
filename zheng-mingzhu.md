@@ -1,3 +1,11 @@
+---
+Title: Madama Butterfly
+Year: 1904
+Genre: Opera
+Disease: Depression and Suicide
+ICD: F32/X84
+---
+
 # Madama Butterfly
 
 Music Title: Un bel dì vedremo (“One Fine Day We Shall See”)

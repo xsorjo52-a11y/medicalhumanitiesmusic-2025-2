@@ -4,6 +4,7 @@ Year: 2001
 Genre: Films
 Disease: Schizophrenia
 ICD: F20-F29
+Composer: James Horner
 ---
 
 # A Beautiful Mind

@@ -1,9 +1,13 @@
 ---
 Title: Beautiful Mind
 Year: 2002
-Genre: Firm
+Genre: Firm(biographical drama)
+Creator: Ron Howard
 Disease: Paranoid Schizophrenia
 ICD: F20.0
+Music: A Kaleidoscope of Mathmatics
+Composer: James Horner
+Type: Classical, Soundtrack
 ---
 
 # Beautiful Mind

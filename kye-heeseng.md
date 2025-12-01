@@ -14,6 +14,8 @@ In *Philadelphia* (1993), directed by Jonathan Demme, music plays a powerful and
 
 “La mamma morta” from *Andrea Chénier* traverses the boundaries between life and death, love and despair. In the film, Andrew transforms the aria into an act of self-expression—reclaiming a voice silenced by illness and social stigma. The operatic voice becomes his own, turning music into both a language of suffering and a gesture of defiance. In that convergence of vulnerability and transcendence, the listener perceives not merely the tragedy of disease but the enduring dignity of the human spirit.
 
+<img src="./kye-heeseng.png" alt="Abstract image of AIDS" style="width:33%;" />
+
 # 필라델피아 (*Philadelphia*)
 
 조너선 데미(Jonathan Demme)가 감독한 영화 《필라델피아》 (1993)는 음악을 통해 부당함, 연민, 인간 존엄성이라는 주제를 강렬하고 감정적으로 드러낸다. 영화의 사운드트랙은 등장인물이 실제로 듣는 음악(극 내 음악, diegetic)과 관객만이 듣는 음악(극 외 음악, non-diegetic)을 함께 사용하여, 에이즈와 성 정체성으로 인해 해고당한 변호사 앤드루 베킷(톰 행크스 분)의 이야기에 깊은 정서적 몰입을 가능하게 한다.

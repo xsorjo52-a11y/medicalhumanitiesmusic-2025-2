@@ -1,6 +1,6 @@
 ---
 Title: La Traviata
-Dates: October 10, 1813 - January 27, 1901 (Italy)
+Year: October 10, 1813 - January 27, 1901 (Italy)
 Genre: Opera
 Disease: Tuberculosis
 ICD: 1B10
@@ -12,7 +12,7 @@ Verdi utilizes Violetta's tuberculosis not merely as a physical ailment but as a
 
 Another work dealing with tuberculosis, [Les Misérables](ki-hayoon.md), deepens Fantine's tragedy musically as it is adapted into a musical. Just as Violetta sings of spiritual purification with 「Addio del passato」 in Verdi's opera, Fantine's arias, 「I Dreamed a Dream」 and 「Come to Me」, in Les Misérables also delicately portray the moment she recalls the past amidst suffering and accepts death. These songs utilize a calm and sorrowful melody devoid of grandeur and a slow tempo to audibly embody the character's weakened state and tragic fate. The music in Fantine's final moments suggests a spiritual liberation and redemption transcending the social hardship she endured, demonstrating that in both works, tuberculosis functions as a musical device delivering the same artistic message of noble sacrifice and the sublimation of love through physical demise.
 
-Both works musically portray themes of tragic fate, inner suffering, and liberation beyond death through the physical decline caused by tuberculosis, yet their approaches differ according to the conventions of opera and musical theatre. 《La Travia》 taemphasizes Violetta’s spiritual transformation through lyrical expressiveness and vocally driven writing, whereas 《Les Misérables》 depicts Fantine’s social and emotional downfall more directly through dramatic narrative and emotionally charged musical numbers. Despite employing different musical languages, both works ultimately serve a shared artistic function by using the motif of tuberculosis to illuminate human suffering and the possibility of spiritual redemption.
+Both works musically portray themes of tragic fate, inner suffering, and liberation beyond death through the physical decline caused by tuberculosis, yet their approaches differ according to the conventions of opera and musical theatre. 《La Traviata》 taemphasizes Violetta’s spiritual transformation through lyrical expressiveness and vocally driven writing, whereas 《Les Misérables》 depicts Fantine’s social and emotional downfall more directly through dramatic narrative and emotionally charged musical numbers. Despite employing different musical languages, both works ultimately serve a shared artistic function by using the motif of tuberculosis to illuminate human suffering and the possibility of spiritual redemption.
 
 
 

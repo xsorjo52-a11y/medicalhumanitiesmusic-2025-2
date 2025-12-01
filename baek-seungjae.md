@@ -1,5 +1,5 @@
 ---
-Title: forrest gump
+Title: Forrest gump
 Year: 1994
 Genre: Film
 Disease: Mild intellectual development disorder

@@ -2,6 +2,7 @@
 Title: Winterreise 
 Year: 1827
 Genre: Song Cycle
+Creator: Schubert
 Disease: depression and existential despair
 ICD: F32.9
 ---

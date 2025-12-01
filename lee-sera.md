@@ -1,6 +1,7 @@
 ---
 Title: La Traviata
-Dates: October 10, 1813 – January 27, 1901 (Italy)
+Composer: Giuseppe Fortunino Francesco Verdi (Italy)
+Year: 1853
 Genre: Opera
 Disease: Tuberculosis
 ICD: 1B10

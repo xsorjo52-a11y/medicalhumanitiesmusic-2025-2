@@ -1,7 +1,7 @@
 ---
 Title: Your lie in april
 Year: 2014 ~ 2015
-Genre: animation
+Genre: Animation
 Disease: Leukemia
 ICD: C91
 ---

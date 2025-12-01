@@ -1,5 +1,5 @@
 ---
-title: Gombo Taryeong
+Title: Gombo Taryeong
 Genre: jopga
 Disease: smallpox
 ICD: B03
@@ -13,7 +13,7 @@ Gombotaryeong evokes laughter by comically portraying the marks of illness, whil
 
 Gombotaryeong is a song about a person whose face bears scars from smallpox, and it exposes issues of social perception and discrimination based on appearance rather than focusing on the disease itself. In a similar vein, the musical Notre-Dame de Paris also deals with a form of physical difference. The work explores the loneliness and social prejudice faced by Quasimodo, whose congenital deformities mark him with an appearance-based disability. Through bell-inspired rhythms and dissonant harmonies, the musical expresses Quasimodo’s distorted bodily image and isolated inner world. In this sense, the two works are similar in that they address social discrimination rooted in appearance. However, they differ musically. While Notre-Dame de Paris uses dissonance and grandeur to confront the protagonist’s suffering in a tragic and serious manner, Gombotaryeong takes a contrasting approach—transforming pain into humor through lively rhythms and bright melodic lines.
 
-You can listen to Gombotaryeong at the following link. It is performed by the master singer Park Sang-ok and is part of the album Huimolijapga (Huimori Japga).
+You can listen to Gombotaryeong at the following [link](https://www.youtube.com/watch?v=gpYq0e7V3BA) It is performed by the master singer Park Sang-ok and is part of the album Huimolijapga (Huimori Japga).
 
 <img src="./kim-harin.png" alt="Pockmarked face" style="width:30%;" />
 

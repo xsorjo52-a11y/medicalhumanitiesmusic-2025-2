@@ -10,7 +10,7 @@ ICD: 6A20.00
 
 The film Joker (2019) portrays the psychological collapse of a man marginalized by society, revealing how mental illness and neglect can drive an individual into madness. Arthur Fleck, who suffers from uncontrollable laughter and emotional instability, gradually loses his sense of identity as he faces continuous humiliation and social rejection. The film redefines evil not as an inherent trait but as a tragic outcome of psychological suffering and systemic indifference. The cello score by composer Hildur Guðnadóttir [Bathroom Dance](https://youtu.be/8z5-Wum2enQ?si=VYj8DbPmzhjd376F) profoundly mirrors Arthur’s inner turmoil. Its dark, trembling timbre evolves from subdued melancholy to intense dissonance, echoing his descent from fragile vulnerability to violent insanity. The shifting tones of the cello not only reflect Arthur’s unstable emotions but also immerse the audience in his deteriorating psyche, making the music an extension of his psychological transformation.
 
-In Joker, psychological symptoms similar to those experienced by Arthur Fleck can also be observed in the film Shine. [philadelphia](park-hyungjin.md)
+In Joker, psychological symptoms similar to those experienced by Arthur Fleck can also be observed in the film Shine. [Philadelphia](park-hyungjin.md)
 
 <img src="./lee-jehyeon.jpg" alt="description" style="width:25%;" />
 

@@ -16,7 +16,7 @@ The music emphasizes auditory discomfort rather than melodic beauty, immersing t
 
 In another film that explores schizophrenia, [Joker(2019)](yu-jonghun.md), music symbolically portrays how protagonist Arthur Fleck's mental fragmentation is expressed in a violent way, and the process of him breaking away from his existing identity. The piece “Bathroom Dance,” composed by Hildur Guðnadóttir, begins with a low, solitary cello line that gradually builds as additional instruments layer in, creating an increasingly complex structure. This progression mirrors Arthur’s inner shift from isolation and repression to chaos and self-acceptance. In the pivotal bathroom scene, he dances to the music after committing his first crime, shedding the identity of a broken victim of society and being reborn as “the Joker.” The music sonically captures the swirling interplay of anxiety and calm, chaos and serenity, embodying the very moment when his fragmented self fully takes shape.
 
-<img src="./lee-taeho.png" alt="Shutter Island: Abstract schizophrenia, fractured reality." style="width:33%;" />
+<img src="./lee-taeho.jpg" alt="Shutter Island: Abstract schizophrenia, fractured reality." style="width:60%;" />
 
 # 셔터 아일랜드 (Shutter Island)
 

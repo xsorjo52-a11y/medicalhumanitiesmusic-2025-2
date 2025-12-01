@@ -1,9 +1,12 @@
 ---
 Title: The Kng's speech
-year: 2010
+Year: 2010
 Genre: Film
+Creator: David saideler
 Disease: Stuttering
 ICD: F98.5
+Music: ymphony No. 7 in A major, Op. 92
+Composer: Beethoven
 ---
 
 # The King's Speech
@@ -41,7 +44,7 @@ Ultimately, this music completes the process of confrontation, transforming his 
 Comparison with Similar Works (Forrest Gump):
 In [Forrest Gump](baek-seungjae.md), another film about overcoming disability, the protagonist, Forrest Gump, has borderline intellectual functioning. Despite this disability, he overcomes it on his own, becoming a war hero who receives the Medal of Honor—a difficult honor to earn in the United States—and by the end of the work, he becomes a wealthy tycoon and celebrity. Similarly, King George VI, the protagonist of 'The King's Speech,' has a speech impediment, but he successfully delivers a speech driven by his sense of duty to give courage to his people after the outbreak of World War II. In this way, the protagonists of both films share the commonality of overcoming their disabilities to achieve success on their own.
 
- <img src="./king's speech.png" alt="Stuttering" style="width:30%;" />
+ <img src="./seong-taehyun.png" alt="Stuttering" style="width:50%;" />
 
 # 킹스 스피치
 

@@ -2,8 +2,12 @@
 Title: Rent
 Year: 2005
 Genre: Film
+Creator: Chris Columbus
 Disease: HIV/AIDS vacuolar myelopathy
 ICD: 8A45.0Y
+Music: Seasons of Love
+Composer: Jonathan Larson
+Type: Musical number
 ---
 
 # Rent

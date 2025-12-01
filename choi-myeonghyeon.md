@@ -4,6 +4,7 @@ Year: 1801
 Genre: Music
 Disease: Deafness
 ICD: AB52
+Composer: Ludwig van Beethoven
 ---
 
 # Piano Sonata “Moonlight Sonata”

@@ -33,5 +33,6 @@ This contrast is particularly evident in their musical expression. In Coda, the 
 다음은 베토벤-피델리오의 오페라 영상이다. 
 [Beethoven- Fidelio, OP 72](https://www.youtube.com/watch?v=sm7hGCSkhTE&list=RDsm7hGCSkhTE&start_radio=1)
 
+<img src="./kim-janghyeon.png" alt="Beethoven's hearing loss" style="width:45%;" />
 
 
